@@ -1,5 +1,8 @@
 .vscode/
 *.pdf
+*real.pdf
+!part*_Liri_and_Gilad.pdf
 *.rar
 *.docx
-
+*fake*.csv
+*Copy.ipynb
